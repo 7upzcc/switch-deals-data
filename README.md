@@ -1,2 +1,2 @@
 # switch-deals-data
-swtich港服最新的打折信息
+switch港服最新的打折信息
