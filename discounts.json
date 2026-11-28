@@ -1,6 +1,6 @@
 {
   "source": "https://store.nintendo.com.hk/digital-games/current-offers?platform=switch",
-  "scraped_at": "2026-11-27T20:47:13.011829",
+  "scraped_at": "2026-11-28T06:38:45.545786",
   "total": 120,
   "games": [
     {
@@ -11,7 +11,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000033098",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/5/057249cf707a2a733c876c0eb453bb018ee6ea09f3aea5c350f4d76f70840d00_1785827248.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.012278"
+      "scraped_at": "2026-11-28T06:37:43.205748"
     },
     {
       "name": "Brotato & Abyssal Terrors DLC - Bundle",
@@ -21,17 +21,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000030857",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/9/a/9a3e620137fc7405ad7099642a58e00a5de987896fc0bf1dac7ea3599b999c26_1786388724.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.029671"
-    },
-    {
-      "name": "Slay the Spire",
-      "current_price": "HKD 48",
-      "original_price": "HKD 194",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000012388",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/1/a1522a1187523319e3bf94489a060e766ba86eec87f5d5305bdbe6b30ccab355_1785762433.jpg",
-      "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.071971"
+      "scraped_at": "2026-11-28T06:37:43.227780"
     },
     {
       "name": "Figment 1 + Figment 2",
@@ -41,7 +31,17 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000017136",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/f/7fad26e8f66e5df78cc8f52f36336fbf387710a2e156ee494ff127ce278b8bec_1786345517.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.087164"
+      "scraped_at": "2026-11-28T06:37:43.283846"
+    },
+    {
+      "name": "Slay the Spire",
+      "current_price": "HKD 48",
+      "original_price": "HKD 194",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000012388",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/1/a1522a1187523319e3bf94489a060e766ba86eec87f5d5305bdbe6b30ccab355_1785762433.jpg",
+      "page": 1,
+      "scraped_at": "2026-11-28T06:37:43.302933"
     },
     {
       "name": "霍格華茲的傳承：數位豪華版 Hogwarts Legacy: Digital Deluxe Edition",
@@ -51,7 +51,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000019473",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/d/8d6950111fb9a0ece31708dcd6ac893f93c012bc585a6a09dfd986d56ab483d1_1786353295.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.102989"
+      "scraped_at": "2026-11-28T06:37:43.320080"
     },
     {
       "name": "Human: Fall Flat (人類：跌落夢境)",
@@ -61,7 +61,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000028500",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/2/42d417d79da2d65a167d06eb037365741ce7a5fca00fca83968e8645c877735a_1785813018.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.116579"
+      "scraped_at": "2026-11-28T06:37:43.337595"
     },
     {
       "name": "真人快打11終極版",
@@ -71,7 +71,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000011265",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/f/2f9243b193fc536ced9661af1b920d790903be5698561747b17b5c5d7a0f81e7_1786334623.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.129978"
+      "scraped_at": "2026-11-28T06:37:43.354590"
     },
     {
       "name": "Moving Out 2",
@@ -81,7 +81,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000052932",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/a/ca4daae0eaae22b18cefda3e0ca948516794309d5a885b650671d9ec1987843d_1785942383.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.146376"
+      "scraped_at": "2026-11-28T06:37:43.376480"
     },
     {
       "name": "植物大戰殭屍™：移植版",
@@ -91,7 +91,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000098372",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/e/cea5dac1814b93f3ef74fa7c0a50dca5bdbf358713039dd8c13f85799a19e302_1786087336.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.161280"
+      "scraped_at": "2026-11-28T06:37:43.395606"
     },
     {
       "name": "火影忍者疾風傳 終極風暴4 慕留人傳",
@@ -101,7 +101,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000016050",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/0/a0e03d51b396314d8a29fba87e359e7e179003aa6cb6d6ef60ca8ad985e4b598_1785774297.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.175177"
+      "scraped_at": "2026-11-28T06:37:43.412899"
     },
     {
       "name": "《樂高®小城：臥底密探》[LEGO® CITY Undercover]",
@@ -111,7 +111,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000050979",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/9/4/942420180975f500b610f03f9a2332fbb66033a3de62f89a874403b0faf9baaf_1785931478.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.192933"
+      "scraped_at": "2026-11-28T06:37:43.435190"
     },
     {
       "name": "LEGO® Star Wars™: 天行者傳奇豪華版",
@@ -121,7 +121,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000013585",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/1/1106107417908021b735454ab43cb0d034910b3c60f8b1afa58d42e2980fa39e_1786338230.jpg",
       "page": 1,
-      "scraped_at": "2026-11-27T20:46:04.208501"
+      "scraped_at": "2026-11-28T06:37:43.457806"
     },
     {
       "name": "《極速快感™超熱力追緝》重製版 (Need for Speed™ Hot Pursuit Remastered)",
@@ -131,7 +131,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000029277",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/b/db1a656b6d00996f978483999ddd9221aa6c5680d6cfae60ccf9566d4e444a5d_1785813641.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.129043"
+      "scraped_at": "2026-11-28T06:37:49.290603"
     },
     {
       "name": "LEGO® 漫威超級英雄 2 [LEGO® Marvel Super Heroes 2]",
@@ -141,7 +141,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000050975",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/1/81651ec49ed9e5f1c46c0ea4b2a27f5166d1703e0992dfa4220d3e44fcf0531f_1785931474.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.144162"
+      "scraped_at": "2026-11-28T06:37:49.307782"
     },
     {
       "name": "Gear.Club Unlimited 2",
@@ -151,17 +151,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000014890",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/9/198d5d5758644fb849c471d38aa148104e0e4d8b7be4902b25f14be6ca0fec29_1785773113.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.158988"
-    },
-    {
-      "name": "SAMURAI MAIDEN -武士少女- 豪華版",
-      "current_price": "HKD 58",
-      "original_price": "HKD 585",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000015385",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/3/437c872e193a5006366f764d286906e08c32d970fcfd15e37c350401472db321_1786341795.jpg",
-      "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.172880"
+      "scraped_at": "2026-11-28T06:37:49.324380"
     },
     {
       "name": "15合1家庭遊戲超值合輯 完整版",
@@ -171,17 +161,17 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000033763",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/7/c7a35dfbf440c3514de748b8433e2a1e0dfb2b0fc8a507f1a7b556609ece8c68_1786396085.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.185705"
+      "scraped_at": "2026-11-28T06:37:49.339856"
     },
     {
-      "name": "Heave Ho",
-      "current_price": "HKD 16",
-      "original_price": "HKD 66",
+      "name": "SAMURAI MAIDEN -武士少女- 豪華版",
+      "current_price": "HKD 58",
+      "original_price": "HKD 585",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000082092",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/6/66a0d736f18355706926b9f6bcac0f04c3b406b9001ca98626d3b3144c0bfa03_1786050717.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000015385",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/3/437c872e193a5006366f764d286906e08c32d970fcfd15e37c350401472db321_1786341795.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.199906"
+      "scraped_at": "2026-11-28T06:37:49.354496"
     },
     {
       "name": "Dead Cells: Medley of Pain Bundle",
@@ -191,7 +181,17 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000016993",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/3/0/30e2ef18638c934796736f8ba2fe9b5414e1b9043a0bb5a726c2deb8e415edbe_1786345446.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.212840"
+      "scraped_at": "2026-11-28T06:37:49.371416"
+    },
+    {
+      "name": "Heave Ho",
+      "current_price": "HKD 16",
+      "original_price": "HKD 66",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000082092",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/6/66a0d736f18355706926b9f6bcac0f04c3b406b9001ca98626d3b3144c0bfa03_1786050717.jpg",
+      "page": 2,
+      "scraped_at": "2026-11-28T06:37:49.385539"
     },
     {
       "name": "Moving Out Deluxe Edition",
@@ -201,7 +201,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000015537",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/6/d6a4f40f23f93b9727684a5dde0876b62a3fad3979129db2d816b980c3083980_1786341964.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.226527"
+      "scraped_at": "2026-11-28T06:37:49.400577"
     },
     {
       "name": "Carto",
@@ -211,7 +211,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000033231",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/a/fa6dc526f747c93601b6bf8cc4bbac249ca6e9e04ae8a426a57c9b59fc916774_1785827269.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.240092"
+      "scraped_at": "2026-11-28T06:37:49.415554"
     },
     {
       "name": "植物大戰殭屍™: 和睦小鎮保衛戰》完整版 （Plants vs. Zombies: Battle for Neighborville™ Complete Edition)",
@@ -221,7 +221,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000027857",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/a/7af8c9cdf2122e7ec0b5e20e6b498bc34087a2443caec543af8aa0c2425debcc_1785803202.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.252298"
+      "scraped_at": "2026-11-28T06:37:49.429699"
     },
     {
       "name": "紙境時空 Paper Trail",
@@ -231,7 +231,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000065431",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/4/74aba7f1aa95e69864d8f5a5e68209b7363a38254f3a390ab3ffd357b6a4892e_1786006884.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.266132"
+      "scraped_at": "2026-11-28T06:37:49.446124"
     },
     {
       "name": "月姬 -A piece of blue glass moon-",
@@ -241,7 +241,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000077995",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/f/af2e2567bf747157c93024444b850f414243f37ab0da0819be1bb9d4539dc31e_1786042995.jpg",
       "page": 2,
-      "scraped_at": "2026-11-27T20:46:12.280242"
+      "scraped_at": "2026-11-28T06:37:49.462295"
     },
     {
       "name": "ENDER LILIES: Quietus of the Knights",
@@ -251,17 +251,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000035191",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/1/f1bd67f486166cee858d6f92c533e48483c00d2573903bd2e73e6e8c5a2a7bd8_1785859885.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:17.939349"
-    },
-    {
-      "name": "千爵史詩《Card Shark》",
-      "current_price": "HKD 16",
-      "original_price": "HKD 108",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000053643",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/b/fb11f05af09d724f5c025e096e527a1552bb1209bf66c915a3603c06f1eb3476_1785942917.jpg",
-      "page": 3,
-      "scraped_at": "2026-11-27T20:46:17.955271"
+      "scraped_at": "2026-11-28T06:37:56.251028"
     },
     {
       "name": "EA SPORTS FC™ 27",
@@ -271,17 +261,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000110120",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/0/e08884815dafeff3f8688181eb8766aa78333ae8fd49d7bcdb01a950e3087c1f_1790265785.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:17.971410"
-    },
-    {
-      "name": "Cooking Tycoons 3: 3 in 1 Bundle",
-      "current_price": "HKD 10",
-      "original_price": "HKD 102",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000042695",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/b/2ba9e08e353beb335d3a1f7e2bde8627424a7f33aa7fa3a2f104920f70da7cc4_1785888843.jpg",
-      "page": 3,
-      "scraped_at": "2026-11-27T20:46:17.994311"
+      "scraped_at": "2026-11-28T06:37:56.265583"
     },
     {
       "name": "太鼓之達人 咚咚雷音祭 太鼓 Music Pass90天使用券組合包",
@@ -291,7 +271,27 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000057568",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/b/8bb8051fc2778710430bce48c74e5779372fc11060510819dd38da8e5bfe8361_1794471559.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.007969"
+      "scraped_at": "2026-11-28T06:37:56.281603"
+    },
+    {
+      "name": "千爵史詩《Card Shark》",
+      "current_price": "HKD 16",
+      "original_price": "HKD 108",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000053643",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/b/fb11f05af09d724f5c025e096e527a1552bb1209bf66c915a3603c06f1eb3476_1785942917.jpg",
+      "page": 3,
+      "scraped_at": "2026-11-28T06:37:56.306800"
+    },
+    {
+      "name": "Cooking Tycoons 3: 3 in 1 Bundle",
+      "current_price": "HKD 10",
+      "original_price": "HKD 102",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000042695",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/b/2ba9e08e353beb335d3a1f7e2bde8627424a7f33aa7fa3a2f104920f70da7cc4_1785888843.jpg",
+      "page": 3,
+      "scraped_at": "2026-11-28T06:37:56.322605"
     },
     {
       "name": "Alba: A Wildlife Adventure",
@@ -301,27 +301,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000040487",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/a/ea29e3dc1cb1e27bfbf17eddc622f667c155dc4bedbaf31e9204a017d1b6d272_1785881336.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.020473"
-    },
-    {
-      "name": "《真人快打™ 1》 Mortal Kombat™ 1",
-      "current_price": "HKD 46",
-      "original_price": "HKD 312",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000053756",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/e/ae19a283c566411b7fb86c7140511858a509e4625f04cf2d924c11d91f1b1af9_1785943064.jpg",
-      "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.033855"
-    },
-    {
-      "name": "《霍格華茲的傳承》+《哈利波特：魁地奇鬥士》豪華版組合包 Hogwarts Legacy + Harry Potter: Quidditch Champions Deluxe Editions Bundle",
-      "current_price": "HKD 78",
-      "original_price": "HKD 780",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000025300",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/b/7b2b7a446f5da1447b8a8a890efc05580b90745adef9ee4b0796af46ad23dfea_1786363493.jpg",
-      "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.047472"
+      "scraped_at": "2026-11-28T06:37:56.336827"
     },
     {
       "name": "Tactics Ogre: Reborn",
@@ -331,7 +311,37 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000036800",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/d/dd2696f7dd75d2dec2c7eab61bdeac301f8f65149a7ad53659200a759a3b9f9b_1785866953.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.061446"
+      "scraped_at": "2026-11-28T06:37:56.351141"
+    },
+    {
+      "name": "《Sherlock Holmes: Crimes and Punishments》 + 《Sherlock Holmes: The Devil's Daughter》捆綁包",
+      "current_price": "HKD 36",
+      "original_price": "HKD 369",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000014171",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/e/7e7b80f72a5bb30d7d177002ac39f1800d851eafdbb87b23a52dc40bc29b00b8_1786338554.jpg",
+      "page": 3,
+      "scraped_at": "2026-11-28T06:37:56.365461"
+    },
+    {
+      "name": "《真人快打™ 1》 Mortal Kombat™ 1",
+      "current_price": "HKD 46",
+      "original_price": "HKD 312",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000053756",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/e/ae19a283c566411b7fb86c7140511858a509e4625f04cf2d924c11d91f1b1af9_1785943064.jpg",
+      "page": 3,
+      "scraped_at": "2026-11-28T06:37:56.380201"
+    },
+    {
+      "name": "Cafeteria Nipponica",
+      "current_price": "HKD 33",
+      "original_price": "HKD 100",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000032454",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/4/040b16a2d9fa67bee0cfbc497f5e1950cb8a465ba9384dce59587cb79bf4eb47_1785821131.jpg",
+      "page": 3,
+      "scraped_at": "2026-11-28T06:37:56.395228"
     },
     {
       "name": "王牌釣手 歡釣水族館",
@@ -341,17 +351,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000054581",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/1/514610bb1e920e0aa4a7a23064089be19d4cf1af025289ef0433aea7e421cda7_1788488539.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.079402"
-    },
-    {
-      "name": "《MONOPOLY 地產大亨：瘋樂》",
-      "current_price": "HKD 57",
-      "original_price": "HKD 228",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000046341",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/e/5ea4052f37e770f150eeb833a2aea8abc30a5b361e43bc2dafd77206d02c38f2_1785906767.jpg",
-      "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.097296"
+      "scraped_at": "2026-11-28T06:37:56.413430"
     },
     {
       "name": "SD GUNDAM G世代 創世＆火線縱橫 雙重包",
@@ -361,7 +361,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000020541",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/9/f/9f247ddcdcc069643debcbd725dc38339dbe214ffbb30aa9d23d9bd4bd7429e9_1786356801.jpg",
       "page": 3,
-      "scraped_at": "2026-11-27T20:46:18.110316"
+      "scraped_at": "2026-11-28T06:37:56.427916"
     },
     {
       "name": "Gear.Club Unlimited 2 - Definitive Edition",
@@ -371,37 +371,27 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000013410",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/1/c1fe14a0ddc78ddc04e6711bfb601703f5e7625de2f7fa4e9f9c88ead8e0d257_1786338101.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.382607"
+      "scraped_at": "2026-11-28T06:38:05.053615"
     },
     {
-      "name": "Cafeteria Nipponica",
-      "current_price": "HKD 33",
-      "original_price": "HKD 100",
+      "name": "GT Racing Pro",
+      "current_price": "HKD 20",
+      "original_price": "HKD 200",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000032454",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/4/040b16a2d9fa67bee0cfbc497f5e1950cb8a465ba9384dce59587cb79bf4eb47_1785821131.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000125844",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/6/06eed53b35c1e8017a41f2a447fe38fb97a7fd81fd4c8950ea2e96873caccb74_1795018555.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.395585"
+      "scraped_at": "2026-11-28T06:38:05.068167"
     },
     {
-      "name": "《Sherlock Holmes: Crimes and Punishments》 + 《Sherlock Holmes: The Devil's Daughter》捆綁包",
-      "current_price": "HKD 36",
-      "original_price": "HKD 369",
+      "name": "《MONOPOLY 地產大亨：瘋樂》",
+      "current_price": "HKD 57",
+      "original_price": "HKD 228",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000014171",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/e/7e7b80f72a5bb30d7d177002ac39f1800d851eafdbb87b23a52dc40bc29b00b8_1786338554.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000046341",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/e/5ea4052f37e770f150eeb833a2aea8abc30a5b361e43bc2dafd77206d02c38f2_1785906767.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.410095"
-    },
-    {
-      "name": "The Survivalists - Complete Edition",
-      "current_price": "HKD 18",
-      "original_price": "HKD 187",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000033074",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/3/c3be058bffe7fadb2c5f1a2eddafa7b44888186c86b2d7a7902e2dae4974e1c2_1786393049.jpg",
-      "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.424985"
+      "scraped_at": "2026-11-28T06:38:05.082769"
     },
     {
       "name": "PATAPON 1+2 REPLAY",
@@ -411,17 +401,17 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000088393",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/0/d07c693168064335090a77447507ead7a8870d16bd8ba2a884d4d498c8d5e62f_1786064608.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.437930"
+      "scraped_at": "2026-11-28T06:38:05.097017"
     },
     {
-      "name": "魔法使之夜",
-      "current_price": "HKD 176",
-      "original_price": "HKD 353",
+      "name": "《霍格華茲的傳承》+《哈利波特：魁地奇鬥士》豪華版組合包 Hogwarts Legacy + Harry Potter: Quidditch Champions Deluxe Editions Bundle",
+      "current_price": "HKD 78",
+      "original_price": "HKD 780",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000052133",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/8/781dc1181eb6ea9eaa6a8acc39d1740fac3be45b36d317b0042c2d040a8dc779_1785932294.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000025300",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/b/7b2b7a446f5da1447b8a8a890efc05580b90745adef9ee4b0796af46ad23dfea_1786363493.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.451324"
+      "scraped_at": "2026-11-28T06:38:05.110282"
     },
     {
       "name": "Contra Anniversary Collection",
@@ -431,17 +421,17 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000078954",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/9/0/90ffbc8667c40cf10f3db7697feeb32546d39eae9bd2a680f59f7b06f7e18d37_1786043902.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.464016"
+      "scraped_at": "2026-11-28T06:38:05.123345"
     },
     {
-      "name": "聖女戰旗",
-      "current_price": "HKD 35",
-      "original_price": "HKD 118",
+      "name": "The Survivalists - Complete Edition",
+      "current_price": "HKD 18",
+      "original_price": "HKD 187",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000027454",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/6/c6e0d66ffde92311e3f9b80eee1817f50db021f66f4e3a1228e3fa6beeb00c7b_1785802949.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000033074",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/3/c3be058bffe7fadb2c5f1a2eddafa7b44888186c86b2d7a7902e2dae4974e1c2_1786393049.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.476808"
+      "scraped_at": "2026-11-28T06:38:05.136934"
     },
     {
       "name": "《瑪利歐 ＋ 瘋狂兔子 希望之星》- 黃金版（MARIO + RABBIDS SPARKS OF HOPE GOLD EDITION）",
@@ -451,17 +441,37 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000014600",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/4/04050c6c414d9205cf0d18e5936f55dd64c3536b0f93d1b35ed5e87a04aa7754_1786338731.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.492968"
+      "scraped_at": "2026-11-28T06:38:05.150947"
     },
     {
-      "name": "Morbid: The Seven Acolytes",
-      "current_price": "HKD 13",
-      "original_price": "HKD 139",
+      "name": "魔法使之夜",
+      "current_price": "HKD 176",
+      "original_price": "HKD 353",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000037871",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/e/bea22b446bc31dd400e3fa18876207332072069d5b1d32aa580ac809d628434d_1785867726.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000052133",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/8/781dc1181eb6ea9eaa6a8acc39d1740fac3be45b36d317b0042c2d040a8dc779_1785932294.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.509221"
+      "scraped_at": "2026-11-28T06:38:05.167754"
+    },
+    {
+      "name": "聖女戰旗",
+      "current_price": "HKD 35",
+      "original_price": "HKD 118",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000027454",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/6/c6e0d66ffde92311e3f9b80eee1817f50db021f66f4e3a1228e3fa6beeb00c7b_1785802949.jpg",
+      "page": 4,
+      "scraped_at": "2026-11-28T06:38:05.196150"
+    },
+    {
+      "name": "餓殍：明末千里行",
+      "current_price": "HKD 55",
+      "original_price": "HKD 93",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000089977",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/6/e6412548825ad0b735bdb958a12b89b93057b28d4cc1d6583660e24880755531_1786071678.jpg",
+      "page": 4,
+      "scraped_at": "2026-11-28T06:38:05.215540"
     },
     {
       "name": "Dead Cells: Return to Castlevania Bundle",
@@ -471,7 +481,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000016992",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/e/1e4b7bb38a483c3285638281645c0a3510200db24e2220d6174f84b68e4c2e31_1786345432.jpg",
       "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.525905"
+      "scraped_at": "2026-11-28T06:38:05.232895"
     },
     {
       "name": "《席德·梅爾的文明帝國VI 白金版》",
@@ -480,8 +490,8 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000012608",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/8/4863be847908de4dc0b5f82c0c5b6369bb72e85c40359caaecc74acc819efd82_1786335067.jpg",
-      "page": 4,
-      "scraped_at": "2026-11-27T20:46:26.540394"
+      "page": 5,
+      "scraped_at": "2026-11-28T06:38:11.411250"
     },
     {
       "name": "Little Strays \"小貓大營救\": Legendary Collection",
@@ -491,17 +501,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000027012",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/c/5c40e7fcfb0b846c73e4a26cf262441a3292c97a050d8efbc22325fc9506ec8f_1786378238.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.214036"
-    },
-    {
-      "name": "餓殍：明末千里行",
-      "current_price": "HKD 55",
-      "original_price": "HKD 93",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000089977",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/6/e6412548825ad0b735bdb958a12b89b93057b28d4cc1d6583660e24880755531_1786071678.jpg",
-      "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.225944"
+      "scraped_at": "2026-11-28T06:38:11.424514"
     },
     {
       "name": "《暗黑破壞神 II：獄火重生》煉獄版",
@@ -511,17 +511,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000033591",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/3/a3729225fe53b44ea20fc1223806ab953369b0199873c284ae78423ea782ecf7_1786396014.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.238980"
-    },
-    {
-      "name": "GT Racing Pro",
-      "current_price": "HKD 20",
-      "original_price": "HKD 200",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000125844",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/6/06eed53b35c1e8017a41f2a447fe38fb97a7fd81fd4c8950ea2e96873caccb74_1795018555.jpg",
-      "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.252131"
+      "scraped_at": "2026-11-28T06:38:11.437564"
     },
     {
       "name": "雙人成行 (It Takes Two)",
@@ -531,17 +521,17 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000014922",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/7/e7200824041808289d4a65589ed368f7e08dc2e538a5fd7ee9f8d39e58015c24_1792076545.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.263847"
+      "scraped_at": "2026-11-28T06:38:11.450691"
     },
     {
-      "name": "死亡細胞 (Dead Cells)",
-      "current_price": "HKD 94",
-      "original_price": "HKD 189",
+      "name": "Morbid: The Seven Acolytes",
+      "current_price": "HKD 13",
+      "original_price": "HKD 139",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000010203",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/4/449b929148314e9bb4ec79e574e4fcacaca04fee8503defde177172e2bd195c5_1785755612.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000037871",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/e/bea22b446bc31dd400e3fa18876207332072069d5b1d32aa580ac809d628434d_1785867726.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.276255"
+      "scraped_at": "2026-11-28T06:38:11.463530"
     },
     {
       "name": "Doki Doki Literature Club Plus!《心跳文學社Plus！》",
@@ -551,37 +541,17 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000043527",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/9/c9f19d077bc9bfb010ce6c729219e19f46f7768a0f7d886b0e684c74b68ff771_1785898871.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.291452"
+      "scraped_at": "2026-11-28T06:38:11.476012"
     },
     {
-      "name": "Pure Pool",
-      "current_price": "HKD 42",
-      "original_price": "HKD 107",
+      "name": "For The King",
+      "current_price": "HKD 27",
+      "original_price": "HKD 139",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000034073",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/a/5ad2ba950a81a6738b2fa3d4e38ec3eae1cbe9cb59ac710e2026147c3af893e2_1785827899.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000029296",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/0/50b48818479c32fddc589cd7323d4ef82c23e0148018d33b27e594ab97765bc1_1785813655.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.305601"
-    },
-    {
-      "name": "《女神異聞錄５》系列 遊戲組合包",
-      "current_price": "HKD 362",
-      "original_price": "HKD 1,098",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000037512",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/8/a8055eb589cc21163bc0a05e01f40992e286c05065e23c0147a33394b4139e6b_1786406533.jpg",
-      "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.364439"
-    },
-    {
-      "name": "SuperMarket Mess!",
-      "current_price": "HKD 29",
-      "original_price": "HKD 55",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000140735",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/f/4f6895dd9e88aed553c4403210f928fcf6ad2bd8451fe296d1b6b3db75784209_1794413713.jpg",
-      "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.387821"
+      "scraped_at": "2026-11-28T06:38:11.490438"
     },
     {
       "name": "Snow Bros. Wonderland",
@@ -591,17 +561,17 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000091374",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/9/e943cf496ec4930f5bdf459dc0b6b94d53660ddf859e0a93e43397ebf4b1066e_1786072794.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.412059"
+      "scraped_at": "2026-11-28T06:38:11.504430"
     },
     {
-      "name": "DREDGE",
-      "current_price": "HKD 66",
-      "original_price": "HKD 165",
+      "name": "《女神異聞錄５》系列 遊戲組合包",
+      "current_price": "HKD 362",
+      "original_price": "HKD 1,098",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000049266",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/e/fe7c711c32bb15ecf9c96dac96a7c6818e49d265c28fa59145c0cbf5ebf34055_1785924255.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000037512",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/8/a8055eb589cc21163bc0a05e01f40992e286c05065e23c0147a33394b4139e6b_1786406533.jpg",
       "page": 5,
-      "scraped_at": "2026-11-27T20:46:35.434197"
+      "scraped_at": "2026-11-28T06:38:11.519866"
     },
     {
       "name": "DRAGON BALL FighterZ傳奇版",
@@ -610,8 +580,8 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000020795",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/9/e956e2b345b2dac4464de5933b1be6b9371ed1eb1f5b6de319635fdd82e0a529_1786356974.jpg",
-      "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.346003"
+      "page": 5,
+      "scraped_at": "2026-11-28T06:38:11.532461"
     },
     {
       "name": "卡車模擬器：歐洲道路 (Truck Simulator: European Roads)",
@@ -620,18 +590,8 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000072068",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/c/4c3bef3fa0de82abee6dd2e4b3ee07da9c0486d768a092fae18ca9fd60802da4_1786029440.jpg",
-      "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.358935"
-    },
-    {
-      "name": "For The King",
-      "current_price": "HKD 27",
-      "original_price": "HKD 139",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000029296",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/0/50b48818479c32fddc589cd7323d4ef82c23e0148018d33b27e594ab97765bc1_1785813655.jpg",
-      "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.371912"
+      "page": 5,
+      "scraped_at": "2026-11-28T06:38:11.548736"
     },
     {
       "name": "LEGO® 旋風忍者®大電影遊戲 [The LEGO® NINJAGO® Movie Videogame]",
@@ -640,68 +600,48 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000050983",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/9/6/9610a0645f0a25ff11a6aacc95ec529986387abaa6c8cb1597e3a812675556b8_1785931456.jpg",
-      "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.384482"
+      "page": 5,
+      "scraped_at": "2026-11-28T06:38:11.564689"
     },
     {
-      "name": "下載豪華版《聖獸之王》君主版本(Unicorn Overlord Monarch Edition)",
-      "current_price": "HKD 259",
-      "original_price": "HKD 518",
+      "name": "死亡細胞 (Dead Cells)",
+      "current_price": "HKD 94",
+      "original_price": "HKD 189",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000019285",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/c/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3_1786353253.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000010203",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/4/449b929148314e9bb4ec79e574e4fcacaca04fee8503defde177172e2bd195c5_1785755612.jpg",
       "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.426746"
+      "scraped_at": "2026-11-28T06:38:18.001671"
     },
     {
-      "name": "大家一起閱讀空氣。3 ──傳承篇──",
-      "current_price": "HKD 19",
-      "original_price": "HKD 39",
+      "name": "SuperMarket Mess!",
+      "current_price": "HKD 29",
+      "original_price": "HKD 55",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000042646",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/6/d61159df1c31140c46f05f0450d3f9c7387fc45b8eeee7f8cee694f2ebce15f5_1785888834.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000140735",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/f/4f6895dd9e88aed553c4403210f928fcf6ad2bd8451fe296d1b6b3db75784209_1794413713.jpg",
       "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.439668"
+      "scraped_at": "2026-11-28T06:38:18.015696"
     },
     {
-      "name": "霓虹三國 -Echoes of the Lost-",
-      "current_price": "HKD 278",
-      "original_price": "HKD 398",
+      "name": "DREDGE",
+      "current_price": "HKD 66",
+      "original_price": "HKD 165",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000113894",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/7/e7b0993278d673e13e1754e4d857bf14c5a8acb2740db6f9207778e712a02521_1788971706.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000049266",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/e/fe7c711c32bb15ecf9c96dac96a7c6818e49d265c28fa59145c0cbf5ebf34055_1785924255.jpg",
       "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.451975"
+      "scraped_at": "2026-11-28T06:38:18.028691"
     },
     {
-      "name": "Neon Abyss",
-      "current_price": "HKD 41",
-      "original_price": "HKD 139",
+      "name": "Pure Pool",
+      "current_price": "HKD 42",
+      "original_price": "HKD 107",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000032960",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/9/e9473a203a34bba61790d2b35420f9b68b9f9c65c6a13c09d5ed0ef24bd3184a_1785827146.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000034073",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/a/5ad2ba950a81a6738b2fa3d4e38ec3eae1cbe9cb59ac710e2026147c3af893e2_1785827899.jpg",
       "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.464949"
-    },
-    {
-      "name": "蒼翼：混沌效應X 數位豪華版 (BlazBlue Entropy Effect X Deluxe Edition)",
-      "current_price": "HKD 118",
-      "original_price": "HKD 198",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000031914",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/d/4d56102d36dce2bae366a645ed0a85f3d4aa03c16a3121065ed405a7528bbdea_1786392219.jpg",
-      "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.477357"
-    },
-    {
-      "name": "Disney TSUM TSUM FESTIVAL",
-      "current_price": "HKD 35",
-      "original_price": "HKD 419",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000022756",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/6/b675f0459e7fd6296243676d53bdf5c2a65915cb0924be228afcea357f5e3cfc_1785795157.jpg",
-      "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.490913"
+      "scraped_at": "2026-11-28T06:38:18.042070"
     },
     {
       "name": "伊蘇回憶錄 -菲爾迦納的誓約-",
@@ -711,7 +651,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000064760",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/1/1197e18ab12f567fbe88ec413075c6df652ffe6faf7a635204e6bf16403ebf86_1785996927.jpg",
       "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.503536"
+      "scraped_at": "2026-11-28T06:38:18.054576"
     },
     {
       "name": "Blasphemous 2 - Mea Culpa Edition",
@@ -721,27 +661,17 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000024781",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/c/1c033931df2c55fa4ad9715179a36dcb706cf9474a0b503299f47124aa838a5e_1786374927.jpg",
       "page": 6,
-      "scraped_at": "2026-11-27T20:46:42.514937"
+      "scraped_at": "2026-11-28T06:38:18.067027"
     },
     {
-      "name": "空之軌跡 the 1st",
-      "current_price": "HKD 234",
-      "original_price": "HKD 468",
+      "name": "大家一起閱讀空氣。3 ──傳承篇──",
+      "current_price": "HKD 19",
+      "original_price": "HKD 39",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000098128",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/6/2638ba8d9b453990cac1279848e4dec3de00f58e37362d0df8d68dee74fce48c_1786087243.jpg",
-      "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.872710"
-    },
-    {
-      "name": "LEGO® Harry Potter™ Collection",
-      "current_price": "HKD 46",
-      "original_price": "HKD 234",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000013535",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/6/16692d987f2984b4b32b81859e1448f3e3abfcf1d8d644c73b74c8921ef32975_1786084695.jpg",
-      "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.885456"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000042646",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/6/d61159df1c31140c46f05f0450d3f9c7387fc45b8eeee7f8cee694f2ebce15f5_1785888834.jpg",
+      "page": 6,
+      "scraped_at": "2026-11-28T06:38:18.080196"
     },
     {
       "name": "JOJO的奇妙冒險 群星之戰 重製版",
@@ -750,38 +680,58 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000054239",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/c/acef9c92a3cb45893e48ab29bde9285ce7ea77fd8cc38d0e955c7d37962abaed_1785943329.jpg",
-      "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.897494"
+      "page": 6,
+      "scraped_at": "2026-11-28T06:38:18.099504"
     },
     {
-      "name": "The Sinking City：豪華典藏版",
-      "current_price": "HKD 40",
-      "original_price": "HKD 510",
+      "name": "Disney TSUM TSUM FESTIVAL",
+      "current_price": "HKD 35",
+      "original_price": "HKD 419",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000009581",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/7/67ecb0cc1ff12332fe927d97ecadf6bb5b8d0c518a13373d49c90022429e63e3_1786331458.jpg",
-      "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.909681"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000022756",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/6/b675f0459e7fd6296243676d53bdf5c2a65915cb0924be228afcea357f5e3cfc_1785795157.jpg",
+      "page": 6,
+      "scraped_at": "2026-11-28T06:38:18.114106"
     },
     {
-      "name": "超級機器人大戰Y 數位終極版",
-      "current_price": "HKD 490",
-      "original_price": "HKD 999",
+      "name": "Neon Abyss",
+      "current_price": "HKD 41",
+      "original_price": "HKD 139",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000029003",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/5/d58525239095c5fdc07a3af4cfbe6116b4cebdd8158c3648355cff569adcb123_1786382156.jpg",
-      "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.921325"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000032960",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/9/e9473a203a34bba61790d2b35420f9b68b9f9c65c6a13c09d5ed0ef24bd3184a_1785827146.jpg",
+      "page": 6,
+      "scraped_at": "2026-11-28T06:38:18.128416"
     },
     {
-      "name": "找不同偵探",
-      "current_price": "HKD 10",
-      "original_price": "HKD 52",
+      "name": "下載豪華版《聖獸之王》君主版本(Unicorn Overlord Monarch Edition)",
+      "current_price": "HKD 259",
+      "original_price": "HKD 518",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000097289",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/7/2738013b2fd543bf09525a5bf2f4bf1976eff504c9ba06a364b74d5033c54c19_1786086626.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000019285",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/c/1c6ea7cb9f61578d8dd7bafb1f5e7a175acaaf0de279721a371455da8481b0d3_1786353253.jpg",
+      "page": 6,
+      "scraped_at": "2026-11-28T06:38:18.148166"
+    },
+    {
+      "name": "蒼翼：混沌效應X 數位豪華版 (BlazBlue Entropy Effect X Deluxe Edition)",
+      "current_price": "HKD 118",
+      "original_price": "HKD 198",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000031914",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/d/4d56102d36dce2bae366a645ed0a85f3d4aa03c16a3121065ed405a7528bbdea_1786392219.jpg",
+      "page": 6,
+      "scraped_at": "2026-11-28T06:38:18.161827"
+    },
+    {
+      "name": "霓虹三國 -Echoes of the Lost-",
+      "current_price": "HKD 278",
+      "original_price": "HKD 398",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000113894",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/7/e7b0993278d673e13e1754e4d857bf14c5a8acb2740db6f9207778e712a02521_1788971706.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.932864"
+      "scraped_at": "2026-11-28T06:38:25.526191"
     },
     {
       "name": "even if TEMPEST 黃昏中魔女如是說",
@@ -791,47 +741,47 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000063410",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/8/c83a719c08a9e2932e50fc139fe4bfb66c8ca3d83f446e432b7b4ddd2f476f00_1785990073.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.944904"
+      "scraped_at": "2026-11-28T06:38:25.539830"
     },
     {
-      "name": "Sherlock Holmes：The Darkest Mysteries合輯",
-      "current_price": "HKD 29",
-      "original_price": "HKD 299",
+      "name": "空之軌跡 the 1st",
+      "current_price": "HKD 234",
+      "original_price": "HKD 468",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000022193",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/3/c/3ca8ce34ef9ca27ca726b2e789e9367794af6a6dcd5459eb68b9bbcff0fdafe9_1786360538.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000098128",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/6/2638ba8d9b453990cac1279848e4dec3de00f58e37362d0df8d68dee74fce48c_1786087243.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.957010"
+      "scraped_at": "2026-11-28T06:38:25.552916"
     },
     {
-      "name": "《波斯王子：失落王冠》完全版 (Prince of Persia: The Lost Crown - Complete Edition)",
-      "current_price": "HKD 123",
-      "original_price": "HKD 308",
+      "name": "找不同偵探",
+      "current_price": "HKD 10",
+      "original_price": "HKD 52",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000023783",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/b/eb953c451c88effad39ab7119f9d807f2e94cdc238ad70a83cc23fa99944e11d_1786374196.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000097289",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/7/2738013b2fd543bf09525a5bf2f4bf1976eff504c9ba06a364b74d5033c54c19_1786086626.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.969117"
+      "scraped_at": "2026-11-28T06:38:25.566365"
     },
     {
-      "name": "even if TEMPEST 連綴之時的拂曉",
-      "current_price": "HKD 278",
-      "original_price": "HKD 398",
+      "name": "超級機器人大戰Y 數位終極版",
+      "current_price": "HKD 490",
+      "original_price": "HKD 999",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000086824",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/e/8e3f96f5cdae060846406f5eeb23f20e2121df542d75c84481d9607a881264fe_1786061039.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000029003",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/5/d58525239095c5fdc07a3af4cfbe6116b4cebdd8158c3648355cff569adcb123_1786382156.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.980893"
+      "scraped_at": "2026-11-28T06:38:25.580049"
     },
     {
-      "name": "Raiden III × MIKADO MANIAX",
-      "current_price": "HKD 85",
-      "original_price": "HKD 214",
+      "name": "LEGO® Harry Potter™ Collection",
+      "current_price": "HKD 46",
+      "original_price": "HKD 234",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000061570",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/e/be74ab12ac85c2ab2f1b3dbdf89093731fc4787b36f6d5ab66a51fda963629e8_1785972143.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000013535",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/6/16692d987f2984b4b32b81859e1448f3e3abfcf1d8d644c73b74c8921ef32975_1786084695.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:48.995597"
+      "scraped_at": "2026-11-28T06:38:25.593415"
     },
     {
       "name": "Library Of Ruina",
@@ -841,17 +791,57 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000057312",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/8/683fafa411a19f20a015d6cbca94839c4370275aa694f6333faba9641a5a756a_1785957156.jpg",
       "page": 7,
-      "scraped_at": "2026-11-27T20:46:49.007942"
+      "scraped_at": "2026-11-28T06:38:25.606646"
     },
     {
-      "name": "秋葉脫物語: Hellbound & Debriefed",
-      "current_price": "HKD 31",
-      "original_price": "HKD 310",
+      "name": "The Sinking City：豪華典藏版",
+      "current_price": "HKD 40",
+      "original_price": "HKD 510",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000038233",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/2/421a6c74b5579d843a1b823bdd9c1045866804e10c23bd1dcf810c533f3f1cf1_1785873828.jpg",
-      "page": 8,
-      "scraped_at": "2026-11-27T20:46:56.990202"
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000009581",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/7/67ecb0cc1ff12332fe927d97ecadf6bb5b8d0c518a13373d49c90022429e63e3_1786331458.jpg",
+      "page": 7,
+      "scraped_at": "2026-11-28T06:38:25.619541"
+    },
+    {
+      "name": "even if TEMPEST 連綴之時的拂曉",
+      "current_price": "HKD 278",
+      "original_price": "HKD 398",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000086824",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/e/8e3f96f5cdae060846406f5eeb23f20e2121df542d75c84481d9607a881264fe_1786061039.jpg",
+      "page": 7,
+      "scraped_at": "2026-11-28T06:38:25.632883"
+    },
+    {
+      "name": "《波斯王子：失落王冠》完全版 (Prince of Persia: The Lost Crown - Complete Edition)",
+      "current_price": "HKD 123",
+      "original_price": "HKD 308",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000023783",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/b/eb953c451c88effad39ab7119f9d807f2e94cdc238ad70a83cc23fa99944e11d_1786374196.jpg",
+      "page": 7,
+      "scraped_at": "2026-11-28T06:38:25.645649"
+    },
+    {
+      "name": "Sherlock Holmes：The Darkest Mysteries合輯",
+      "current_price": "HKD 29",
+      "original_price": "HKD 299",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000022193",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/3/c/3ca8ce34ef9ca27ca726b2e789e9367794af6a6dcd5459eb68b9bbcff0fdafe9_1786360538.jpg",
+      "page": 7,
+      "scraped_at": "2026-11-28T06:38:25.689379"
+    },
+    {
+      "name": "Raiden III × MIKADO MANIAX",
+      "current_price": "HKD 85",
+      "original_price": "HKD 214",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000061570",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/e/be74ab12ac85c2ab2f1b3dbdf89093731fc4787b36f6d5ab66a51fda963629e8_1785972143.jpg",
+      "page": 7,
+      "scraped_at": "2026-11-28T06:38:25.703049"
     },
     {
       "name": "JOJO的奇妙冒險 群星之戰 重製版　數位豪華版",
@@ -861,7 +851,7 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000014373",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/a/2ab876d00165c9e41b931bdc9de21ba80f94c9852dba22f7268338377cf61af3_1786338691.jpg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.002142"
+      "scraped_at": "2026-11-28T06:38:32.437778"
     },
     {
       "name": "BODYCAM SHOOTER 2025",
@@ -871,37 +861,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000102444",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/c/dcd59ee66e9ae6dd7a423187401b682c790d914a4bce12c4f2109dc719cab692_1793079134.jpg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.013917"
-    },
-    {
-      "name": "祝你好死 (HAVE A NICE DEATH)",
-      "current_price": "HKD 50",
-      "original_price": "HKD 169",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000059875",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/b/dbc741e77370754beef6acdbd5adeed4542dd5e4f3486d4cd0d043d71353a085_1785970963.jpg",
-      "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.025839"
-    },
-    {
-      "name": "黑相集：棉蘭號（The Dark Pictures Anthology: Man Of Medan）",
-      "current_price": "HKD 37",
-      "original_price": "HKD 149",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000051064",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/3/8381fde09375d8846b3f7f6a622633baf7648e3e2b7c1e31991479f24d8ecf52_1785931482.jpg",
-      "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.037288"
-    },
-    {
-      "name": "卡里古拉2",
-      "current_price": "HKD 46",
-      "original_price": "HKD 468",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000040056",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/4/c4f6aed8a9a59ee1466cf389eb15e6d12dcac31d635aa21dc75474ccb9d2c296_1785881024.jpg",
-      "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.048803"
+      "scraped_at": "2026-11-28T06:38:32.450833"
     },
     {
       "name": "熱血西遊記 天竺奇譚",
@@ -911,37 +871,27 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000113593",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/3/539c99f81ca9134f6ab78bde7d1e1c4fe97da3d4e69926951aa4bc465dc41387_1786122688.jpg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.062033"
+      "scraped_at": "2026-11-28T06:38:32.463852"
     },
     {
-      "name": "無休仙途（豪華版）",
-      "current_price": "HKD 136",
-      "original_price": "HKD 171",
+      "name": "秋葉脫物語: Hellbound & Debriefed",
+      "current_price": "HKD 31",
+      "original_price": "HKD 310",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000038342",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/4/e4e974cc763a03a668765b9e4794ca86e68293346d026ec771d07578d8323c73_1786407125.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000038233",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/4/2/421a6c74b5579d843a1b823bdd9c1045866804e10c23bd1dcf810c533f3f1cf1_1785873828.jpg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.073964"
+      "scraped_at": "2026-11-28T06:38:32.476810"
     },
     {
-      "name": "《瑪利歐 ＋ 瘋狂兔子 希望之星》(MARIO + RABBIDS SPARKS OF HOPE)",
-      "current_price": "HKD 107",
-      "original_price": "HKD 428",
+      "name": "驚悚故事: 英格莉懺悔錄",
+      "current_price": "HKD 17",
+      "original_price": "HKD 69",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000054005",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/f/bf6a3f92f457a26ac6cfec51c4554eef3a62ee67f5bb12deef750157da29244a_1785943196.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000066258",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/e/be55e8d681103b2ef23158b6ef1803ee9e51bd5077c0df4126595f89eb87b717_1786007626.jpg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.086414"
-    },
-    {
-      "name": "Lacuna",
-      "current_price": "HKD 10",
-      "original_price": "HKD 75",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000048599",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/9/a97773468f63290ad109821eca0822a33a13ca7145051bcae53fe11ebb11a676_1785914344.jpg",
-      "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.098890"
+      "scraped_at": "2026-11-28T06:38:32.489777"
     },
     {
       "name": "Poker - Texas & Omaha Hold'em Extended Edition",
@@ -951,7 +901,17 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000042140",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/e/6e075cd48cae2d36e8c7dddd30cc4e16f915fe574a3d787ff569044afa58979d_1795623062.jpeg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.112607"
+      "scraped_at": "2026-11-28T06:38:32.502803"
+    },
+    {
+      "name": "祝你好死 (HAVE A NICE DEATH)",
+      "current_price": "HKD 50",
+      "original_price": "HKD 169",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000059875",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/b/dbc741e77370754beef6acdbd5adeed4542dd5e4f3486d4cd0d043d71353a085_1785970963.jpg",
+      "page": 8,
+      "scraped_at": "2026-11-28T06:38:32.517133"
     },
     {
       "name": "鬼滅之刃 火之神血風譚2　究極版",
@@ -961,37 +921,27 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000040494",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/9/5960c5eb3ee8fb60d89d50a2f7a80fa4308adb4f1b81078add5c731f2890e883_1791824504.jpg",
       "page": 8,
-      "scraped_at": "2026-11-27T20:46:57.125027"
+      "scraped_at": "2026-11-28T06:38:32.531757"
     },
     {
-      "name": "驚悚故事: 英格莉懺悔錄",
-      "current_price": "HKD 17",
-      "original_price": "HKD 69",
+      "name": "《瑪利歐 ＋ 瘋狂兔子 希望之星》(MARIO + RABBIDS SPARKS OF HOPE)",
+      "current_price": "HKD 107",
+      "original_price": "HKD 428",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000066258",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/e/be55e8d681103b2ef23158b6ef1803ee9e51bd5077c0df4126595f89eb87b717_1786007626.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.860020"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000054005",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/b/f/bf6a3f92f457a26ac6cfec51c4554eef3a62ee67f5bb12deef750157da29244a_1785943196.jpg",
+      "page": 8,
+      "scraped_at": "2026-11-28T06:38:32.546139"
     },
     {
-      "name": "刀劍神域 奪命凶彈 完全版",
-      "current_price": "HKD 58",
-      "original_price": "HKD 239",
+      "name": "黑相集：棉蘭號（The Dark Pictures Anthology: Man Of Medan）",
+      "current_price": "HKD 37",
+      "original_price": "HKD 149",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000014621",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/9/69f6b29077a746c24ef0d1ddfd5f142d9ed05880610fdd2d19d473d487066a87_1785772902.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.872378"
-    },
-    {
-      "name": "Northgard",
-      "current_price": "HKD 60",
-      "original_price": "HKD 241",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000041135",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/7/e70fdab9cf2c109bc91b097a8324b470f5368e67498a08b4decd26447f778391_1785881780.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.884191"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000051064",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/8/3/8381fde09375d8846b3f7f6a622633baf7648e3e2b7c1e31991479f24d8ecf52_1785931482.jpg",
+      "page": 8,
+      "scraped_at": "2026-11-28T06:38:32.560332"
     },
     {
       "name": "Ring of Pain",
@@ -1000,58 +950,18 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000035304",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/1/515d29319bea1cb4aabcf8a0ec303b043a0f5729ead4e80a7daad06126a11f79_1785859916.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.896506"
+      "page": 8,
+      "scraped_at": "2026-11-28T06:38:32.577837"
     },
     {
-      "name": "ENDER MAGNOLIA: Bloom in the Mist",
-      "current_price": "HKD 104",
-      "original_price": "HKD 190",
+      "name": "卡里古拉2",
+      "current_price": "HKD 46",
+      "original_price": "HKD 468",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000078173",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/8/e8dc278e7b8f72aa301f9e65530c214ca4f05bfef914b1a37b3db8869e639ae8_1786043073.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.908395"
-    },
-    {
-      "name": "Realm of Ink",
-      "current_price": "HKD 86",
-      "original_price": "HKD 108",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000115722",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/3/d345d24d5d578d8f521f4f14f72e00d5c8c5bb20a69e11e38d3ff482c084254d_1786126304.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.919846"
-    },
-    {
-      "name": "Marbles Garden",
-      "current_price": "HKD 10",
-      "original_price": "HKD 20",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000054895",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/0/c0ce795d72c603e38a8bdc38c16327cdbed3ab029ae329b233f8364d4802ec84_1789045337.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.932107"
-    },
-    {
-      "name": "神明在上",
-      "current_price": "HKD 12",
-      "original_price": "HKD 120",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000044384",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/d/ad8eebec3060dd2692e79701a4dce76949bab1136bd5202c11f6ac3746de565f_1785899436.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.944017"
-    },
-    {
-      "name": "LEGO®地平線大冒險（LEGO® Horizon Adventures)",
-      "current_price": "HKD 78",
-      "original_price": "HKD 308",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000065643",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/8/68d51abbd298e1c0dd94e2484ffe67436e9e0a879b7caae2d33eaa131f9d223b_1786007065.jpg",
-      "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.955930"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000040056",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/4/c4f6aed8a9a59ee1466cf389eb15e6d12dcac31d635aa21dc75474ccb9d2c296_1785881024.jpg",
+      "page": 8,
+      "scraped_at": "2026-11-28T06:38:32.592325"
     },
     {
       "name": "BALL x PIT",
@@ -1061,17 +971,67 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000093193",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/c/7ca9922741867dc8d55fcf9aabb0c84d4178096a77512a1beadb736288ac98f3_1793956578.jpg",
       "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.967243"
+      "scraped_at": "2026-11-28T06:38:39.426662"
     },
     {
-      "name": "真・女神轉生Ⅴ Vengeance 數位豪華版",
-      "current_price": "HKD 259",
-      "original_price": "HKD 518",
+      "name": "無休仙途（豪華版）",
+      "current_price": "HKD 136",
+      "original_price": "HKD 171",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000020789",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/4/543a2b7b272f65724da35507fc8c647e5c7e42abf66f4d9a0b595625c78ef69f_1786356940.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000038342",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/4/e4e974cc763a03a668765b9e4794ca86e68293346d026ec771d07578d8323c73_1786407125.jpg",
       "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.980447"
+      "scraped_at": "2026-11-28T06:38:39.442528"
+    },
+    {
+      "name": "Lacuna",
+      "current_price": "HKD 10",
+      "original_price": "HKD 75",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000048599",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/9/a97773468f63290ad109821eca0822a33a13ca7145051bcae53fe11ebb11a676_1785914344.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.456268"
+    },
+    {
+      "name": "Marbles Garden",
+      "current_price": "HKD 10",
+      "original_price": "HKD 20",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000054895",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/c/0/c0ce795d72c603e38a8bdc38c16327cdbed3ab029ae329b233f8364d4802ec84_1789045337.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.469370"
+    },
+    {
+      "name": "刀劍神域 奪命凶彈 完全版",
+      "current_price": "HKD 58",
+      "original_price": "HKD 239",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000014621",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/9/69f6b29077a746c24ef0d1ddfd5f142d9ed05880610fdd2d19d473d487066a87_1785772902.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.483324"
+    },
+    {
+      "name": "神明在上",
+      "current_price": "HKD 12",
+      "original_price": "HKD 120",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000044384",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/d/ad8eebec3060dd2692e79701a4dce76949bab1136bd5202c11f6ac3746de565f_1785899436.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.496585"
+    },
+    {
+      "name": "LEGO®地平線大冒險（LEGO® Horizon Adventures)",
+      "current_price": "HKD 78",
+      "original_price": "HKD 308",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000065643",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/8/68d51abbd298e1c0dd94e2484ffe67436e9e0a879b7caae2d33eaa131f9d223b_1786007065.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.512617"
     },
     {
       "name": "MotoGP™25",
@@ -1081,7 +1041,7 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000088857",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/8/f8cb22e1ce38d4ffedf9d79a2ff57ad6be6b00878edc6f365ad8f02134c4a999_1786064969.jpg",
       "page": 9,
-      "scraped_at": "2026-11-27T20:47:04.993111"
+      "scraped_at": "2026-11-28T06:38:39.526176"
     },
     {
       "name": "Chained Up Together: Co-Op Duo",
@@ -1090,38 +1050,38 @@
       "discount": "",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000124217",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/3/03b83125732ccb772ca71a36931521b77ec1881f5dc0242cae63bd4b505aac11_1786551004.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.825933"
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.539428"
     },
     {
-      "name": "Cult of the Lamb: Woolhaven Edition",
-      "current_price": "HKD 141",
-      "original_price": "HKD 214",
+      "name": "Northgard",
+      "current_price": "HKD 60",
+      "original_price": "HKD 241",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000033362",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/e/6e8d3722849fcee30050b46fcbe51998941c7088bcb902d23b795a50b1c7691c_1786442792.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.838140"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000041135",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/7/e70fdab9cf2c109bc91b097a8324b470f5368e67498a08b4decd26447f778391_1785881780.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.552179"
     },
     {
-      "name": "Devil May Cry 3 Special Edition",
-      "current_price": "HKD 78",
-      "original_price": "HKD 156",
+      "name": "戀愛綺譚~不存在的夏天~",
+      "current_price": "HKD 25",
+      "original_price": "HKD 39",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000017210",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/8/a867653e238e182ddc0807682c77a11d8784a723f0a0c968f6873b4858e848f6_1785780313.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.849808"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000068594",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/3/13a006099b7680c6fe373b858ffd91372c948d4e9af3afbe0e84c4ceda5f4c32_1786015187.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.568461"
     },
     {
-      "name": "SD GUNDAM G 世代 火線縱橫",
-      "current_price": "HKD 58",
-      "original_price": "HKD 299",
+      "name": "ENDER MAGNOLIA: Bloom in the Mist",
+      "current_price": "HKD 104",
+      "original_price": "HKD 190",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000015982",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/e/7e7d632c2342bbcfce04a9553b01da3cb9fa2cf6364d6bef7285b774c27f127f_1785774127.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.863280"
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000078173",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/8/e8dc278e7b8f72aa301f9e65530c214ca4f05bfef914b1a37b3db8869e639ae8_1786043073.jpg",
+      "page": 9,
+      "scraped_at": "2026-11-28T06:38:39.584635"
     },
     {
       "name": "戀愛綺譚 不存在的真相",
@@ -1131,67 +1091,37 @@
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000087626",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/0/1/01fe7ddab4d4549f7bef20dab869ab64ea34c823912e717667c421f2d2a26d6b_1786061739.jpeg",
       "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.875377"
+      "scraped_at": "2026-11-28T06:38:45.339423"
     },
     {
-      "name": "Disney 魔法城堡 我的快樂生活2: Enchanted Edition",
-      "current_price": "HKD 33",
-      "original_price": "HKD 339",
+      "name": "Realm of Ink",
+      "current_price": "HKD 86",
+      "original_price": "HKD 108",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000037713",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/8/e88675002ab2acad9762675f58495a2ec0206e0590ee6d46030ab1b46e20473a_1785867697.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000115722",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/d/3/d345d24d5d578d8f521f4f14f72e00d5c8c5bb20a69e11e38d3ff482c084254d_1786126304.jpg",
       "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.886708"
+      "scraped_at": "2026-11-28T06:38:45.352822"
     },
     {
-      "name": "蒼翼默示錄 神觀之夢 特別版",
-      "current_price": "HKD 66",
-      "original_price": "HKD 330",
+      "name": "Sky Games 天空遊戲 Gold Edition",
+      "current_price": "HKD 10",
+      "original_price": "HKD 299",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000014321",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/3/634f69ef4b111869f04209889b828f89fcc012eea92a72307a5c8852ded44e42_1785763633.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000030612",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/2/4/24521ecfa9794839318f73790e7037189b3f6858e52a701d65b17984d242ca80_1786388591.JPG",
       "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.898894"
+      "scraped_at": "2026-11-28T06:38:45.366249"
     },
     {
-      "name": "戀愛綺譚~不存在的夏天~",
-      "current_price": "HKD 25",
-      "original_price": "HKD 39",
+      "name": "Cult of the Lamb: Woolhaven Edition",
+      "current_price": "HKD 141",
+      "original_price": "HKD 214",
       "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000068594",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/1/3/13a006099b7680c6fe373b858ffd91372c948d4e9af3afbe0e84c4ceda5f4c32_1786015187.jpg",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000033362",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/e/6e8d3722849fcee30050b46fcbe51998941c7088bcb902d23b795a50b1c7691c_1786442792.jpg",
       "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.910731"
-    },
-    {
-      "name": "Core Keeper",
-      "current_price": "HKD 88",
-      "original_price": "HKD 148",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000079458",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/8/5835c3aa413e077c036dfa630b447667f317f4a3698fcb8630c57a6ffc38643a_1790319614.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.922848"
-    },
-    {
-      "name": "Football Manager 26 Touch",
-      "current_price": "HKD 114",
-      "original_price": "HKD 338",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/titles/70010000096884",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/d/6dabaec78e0e5085400e29817fda01a59c9dd6762fa4be936cf11eef2467f9fc_1793235084.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.935555"
-    },
-    {
-      "name": "Make It Cozy! 擴充版",
-      "current_price": "HKD 29",
-      "original_price": "HKD 144",
-      "discount": "",
-      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000041885",
-      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/4/f4292d6ed4ac32bdc1f553aa59cec7f0e1db63fefcee106f5c7482aa62d2a0e7_1794585753.jpg",
-      "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.949955"
+      "scraped_at": "2026-11-28T06:38:45.379401"
     },
     {
       "name": "Ship of Fools - Aquapocalypse Edition",
@@ -1201,7 +1131,77 @@
       "url": "https://ec.nintendo.com/HK/zh/bundles/70070000019874",
       "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/e/0/e0902f86d843dfc4ba0a07ae4a4a285255dde19d91c0a905f736b75a8e0d358b_1786356315.jpg",
       "page": 10,
-      "scraped_at": "2026-11-27T20:47:12.962217"
+      "scraped_at": "2026-11-28T06:38:45.392195"
+    },
+    {
+      "name": "Devil May Cry 3 Special Edition",
+      "current_price": "HKD 78",
+      "original_price": "HKD 156",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000017210",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/a/8/a867653e238e182ddc0807682c77a11d8784a723f0a0c968f6873b4858e848f6_1785780313.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.405046"
+    },
+    {
+      "name": "SD GUNDAM G 世代 火線縱橫",
+      "current_price": "HKD 58",
+      "original_price": "HKD 299",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000015982",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/7/e/7e7d632c2342bbcfce04a9553b01da3cb9fa2cf6364d6bef7285b774c27f127f_1785774127.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.419054"
+    },
+    {
+      "name": "霓虹入侵者 (From Space)",
+      "current_price": "HKD 28",
+      "original_price": "HKD 95",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000056299",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/f/d/fd6734fceccab24051f16795287b367eecf31b079f2dc79ef1061ba676369723_1785950558.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.432049"
+    },
+    {
+      "name": "蒼翼默示錄 神觀之夢 特別版",
+      "current_price": "HKD 66",
+      "original_price": "HKD 330",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000014321",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/3/634f69ef4b111869f04209889b828f89fcc012eea92a72307a5c8852ded44e42_1785763633.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.445224"
+    },
+    {
+      "name": "真・女神轉生Ⅴ Vengeance 數位豪華版",
+      "current_price": "HKD 259",
+      "original_price": "HKD 518",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/bundles/70070000020789",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/4/543a2b7b272f65724da35507fc8c647e5c7e42abf66f4d9a0b595625c78ef69f_1786356940.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.458599"
+    },
+    {
+      "name": "Core Keeper",
+      "current_price": "HKD 88",
+      "original_price": "HKD 148",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000079458",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/5/8/5835c3aa413e077c036dfa630b447667f317f4a3698fcb8630c57a6ffc38643a_1790319614.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.474092"
+    },
+    {
+      "name": "Football Manager 26 Touch",
+      "current_price": "HKD 114",
+      "original_price": "HKD 338",
+      "discount": "",
+      "url": "https://ec.nintendo.com/HK/zh/titles/70010000096884",
+      "image": "https://store.nintendo.com.hk/media/catalog/product/cache/55351146f864384e20b16a2043f3a323/6/d/6dabaec78e0e5085400e29817fda01a59c9dd6762fa4be936cf11eef2467f9fc_1793235084.jpg",
+      "page": 10,
+      "scraped_at": "2026-11-28T06:38:45.487658"
     }
   ]
 }
